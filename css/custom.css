@@ -50,7 +50,7 @@
 }
 
 .box span {
-  color: orange;
+  color: rgb(170, 135, 70);
   display: inline-block;
   font-weight: bold;
   font-size: 25px;
